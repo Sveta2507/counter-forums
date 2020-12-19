@@ -1,0 +1,22 @@
+.counterWrapper {
+   display: flex;
+   align-items: center;
+   width: 200px;
+   margin: 0 auto;
+   padding: 20px;
+    border: 2px solid;
+    justify-content: center;
+}
+
+.increment {
+    padding: 10px 20px;
+    box-shadow: 5px;
+    background-color: aqua;
+
+}
+
+.decrement {
+    padding: 10px 20px;
+    box-shadow: 5px;
+    background-color: aqua;
+}
