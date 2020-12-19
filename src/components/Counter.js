@@ -4,9 +4,9 @@ import classes from "./Counter.module.css";
 
 class Counter extends Component {
   state = {
-    count: 0,
-    step: 1,
-    min: 0,
+    count: this.props.count,
+    step: this.props.step,
+    min: this.props.min,
     max: 100,
   };
   handleDecrement = () => {

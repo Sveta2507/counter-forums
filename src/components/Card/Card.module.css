@@ -1,0 +1,24 @@
+.cardImage {
+    display:flex;
+    width:200px;
+}
+
+.cardTitle {
+    text-align: center;
+    font-weight: bold;
+}
+
+.cardDesk {
+    text-align: center;
+    width: 200px;
+}
+
+.cardWrapper {
+    display: flex;
+    width: 350px;
+    flex-flow: colum;
+    align-items: center;
+    padding: 20px;
+    border: 2px solid;
+    margin: 50px;
+}

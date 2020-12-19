@@ -1,5 +1,5 @@
 import "./App.css";
-import Counter from "./components/Counter.js";
+import Card from "./components/Card/Card";
 
 function App() {
   return (
@@ -7,7 +7,9 @@ function App() {
       <header className="App-header">
         <h1>NEW</h1>
       </header>
-      <Counter />
+      <ul className="App-wrapper">
+        <Card />
+      </ul>
     </div>
   );
 }
