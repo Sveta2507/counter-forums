@@ -7,7 +7,7 @@ class Counter extends Component {
     count: this.props.count,
     step: this.props.step,
     min: this.props.min,
-    max: 100,
+    max: this.props.max,
   };
   handleDecrement = () => {
     console.log("click decrement");

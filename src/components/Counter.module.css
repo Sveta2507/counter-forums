@@ -1,22 +1,22 @@
 .counterWrapper {
    display: flex;
    align-items: center;
-   width: 200px;
+   width: 15px;
    margin: 0 auto;
-   padding: 20px;
-    border: 2px solid;
+   padding: 100px;
+  box-shadow: 0 0 10px lightcoral;
+    border: 5px solid lightcoral;
     justify-content: center;
 }
 
-.increment {
-    padding: 10px 20px;
-    box-shadow: 5px;
-    background-color: aqua;
-
-}
-
-.decrement {
-    padding: 10px 20px;
-    box-shadow: 5px;
-    background-color: aqua;
+.decrement,
+.increment{
+  padding: 10px 20px;
+  margin: 10px;
+  background-color: lightcoral;
+  color: black;
+  text-transform: uppercase;
+  box-shadow: 0 0 10px lightcoral;
+  cursor: pointer;
+  border-radius: 8px;
 }

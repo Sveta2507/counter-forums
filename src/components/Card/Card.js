@@ -11,17 +11,17 @@ class Card extends Component {
         {products.map((elem) => {
           console.log(elem);
           return (
-            <li key="elem.id" className={classes.cardWrapper}>
-              (
+            <li key={elem.id} className={classes.cardWrapper}>
               <img
                 className={classes.cardImage}
-                src="{elem.img}"
-                alt="{elem.title}"
+                src={elem.img}
+                alt={elem.title}
               />
               <h3 className={classes.cardTitle}>{elem.title}</h3>
-              <p className={classes.cardDesk}>{elem.description}</p>
+              <p className={classes.cardDescription}>{elem.description}</p>
               <p>
-                price <span>$</span>
+                {elem.price}
+                <span>$</span>
               </p>
               <Counter
                 count={elem.count}

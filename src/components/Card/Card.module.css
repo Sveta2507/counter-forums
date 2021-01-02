@@ -1,14 +1,17 @@
 .cardImage {
-    display:flex;
-    width:200px;
+    display: block;
+    width: 200px;
+    box-shadow: 0 0 10px lightcoral;
+
 }
 
 .cardTitle {
     text-align: center;
     font-weight: bold;
+    color: lightcoral;
 }
 
-.cardDesk {
+.cardDescription {
     text-align: center;
     width: 200px;
 }
@@ -16,9 +19,11 @@
 .cardWrapper {
     display: flex;
     width: 350px;
-    flex-flow: colum;
+    flex-flow: column;
     align-items: center;
     padding: 20px;
-    border: 2px solid;
+    border: 5px solid lightcoral;
+  box-shadow: 0 0 10px lightcoral;
     margin: 50px;
+    color: lightcoral;
 }
