@@ -2,7 +2,7 @@
   "name": "counter-forums",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Sveta2507/counter-forums",
+  "homepage": "https://sveta2507.github.io/counter-forums/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
