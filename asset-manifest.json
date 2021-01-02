@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Sveta2507/counter-forums/static/css/main.0f2337c4.chunk.css",
-    "main.js": "/Sveta2507/counter-forums/static/js/main.fb58be51.chunk.js",
-    "main.js.map": "/Sveta2507/counter-forums/static/js/main.fb58be51.chunk.js.map",
-    "runtime-main.js": "/Sveta2507/counter-forums/static/js/runtime-main.1d0ec95a.js",
-    "runtime-main.js.map": "/Sveta2507/counter-forums/static/js/runtime-main.1d0ec95a.js.map",
-    "static/js/2.9889e96b.chunk.js": "/Sveta2507/counter-forums/static/js/2.9889e96b.chunk.js",
-    "static/js/2.9889e96b.chunk.js.map": "/Sveta2507/counter-forums/static/js/2.9889e96b.chunk.js.map",
-    "index.html": "/Sveta2507/counter-forums/index.html",
-    "static/css/main.0f2337c4.chunk.css.map": "/Sveta2507/counter-forums/static/css/main.0f2337c4.chunk.css.map",
-    "static/js/2.9889e96b.chunk.js.LICENSE.txt": "/Sveta2507/counter-forums/static/js/2.9889e96b.chunk.js.LICENSE.txt"
+    "main.css": "/counter-forums/static/css/main.0f2337c4.chunk.css",
+    "main.js": "/counter-forums/static/js/main.fb58be51.chunk.js",
+    "main.js.map": "/counter-forums/static/js/main.fb58be51.chunk.js.map",
+    "runtime-main.js": "/counter-forums/static/js/runtime-main.8ce44086.js",
+    "runtime-main.js.map": "/counter-forums/static/js/runtime-main.8ce44086.js.map",
+    "static/js/2.9889e96b.chunk.js": "/counter-forums/static/js/2.9889e96b.chunk.js",
+    "static/js/2.9889e96b.chunk.js.map": "/counter-forums/static/js/2.9889e96b.chunk.js.map",
+    "index.html": "/counter-forums/index.html",
+    "static/css/main.0f2337c4.chunk.css.map": "/counter-forums/static/css/main.0f2337c4.chunk.css.map",
+    "static/js/2.9889e96b.chunk.js.LICENSE.txt": "/counter-forums/static/js/2.9889e96b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1d0ec95a.js",
+    "static/js/runtime-main.8ce44086.js",
     "static/js/2.9889e96b.chunk.js",
     "static/css/main.0f2337c4.chunk.css",
     "static/js/main.fb58be51.chunk.js"
